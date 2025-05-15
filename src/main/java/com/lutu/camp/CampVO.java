@@ -1,4 +1,4 @@
-package com.camp.info;
+package com.lutu.camp;
 
 public class CampVO {
 
