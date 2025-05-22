@@ -27,7 +27,7 @@ public class CampDAO implements CampDAO_interface {
 
 	// JDBC
 	String driver = "com.mysql.cj.jdbc.Driver";
-	String url = "jdbc:mysql://localhost:3306/campdb?serverTimezone=Asia/Taipei";
+	String url = "jdbc:mysql://localhost:3306/lutudb?serverTimezone=Asia/Taipei";
 	String userid = "root";
 	String passwd = "loveyou81905";
 
